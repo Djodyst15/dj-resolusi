@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="in">
+<head>
+  <title>kelas 11</title>
+  <link rel="stylesheet" href="rpl11.css">
+  <link rel="stylesheet" href="reset.css">
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+<div class="container">
+		<div class="menu">
+     <p><i class="fas fa-code"></i> XI RPL</p>
+     <ul>
+       <li><a href="image11/image11.html">GALLERY</a></li>
+       <li><a href="#">TEACHERS</a></li>
+       <li><a href="#">LESSONS</a></li>
+       <li><a href="#">STUDENTS</a></li>
+       <li><a href="rpl.html">HOME</a></li>
+     </ul>
+   </div>
+		<div class="hero">
+	 <div class="kotak"><p><h1>ALL STUDENTS OFF XI RPL</h1>SMK SUKAPURA</p>
+	 </div>
+		</div>
+		<div class="content">
+				<div class="kotak"><a href="rpl11/student.html"><p><h2>32</h2>students</p></a>
+				</div>
+				<div class="kotak"><a href="rpl11/teacher.html"><p><h2>10</h2>
+				teachers</p></a>
+				</div>
+				<div class="kotak"><a href="rpl11/lesson.html"><p><h2>11</h2>lessons</p></a>
+				</div>
+		</div>
+		<div class="footer">
+		 <p class="copy">copright@2020.</p>
+		</div>		
+</div>
+</body>
+</html>
